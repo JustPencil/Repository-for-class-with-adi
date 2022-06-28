@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Orelega+One&display=swap");
+*{
+    /*font-family: 'Orelega One', cursive;*/
+}
+body{
+    background: url("/componenets/wave.png");
+}
+#glassFX {
+    border-radius: 25px;
+    backdrop-filter: blur(7.8px);
+    padding: ;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 10%), 0 10px 15px rgba(232, 255, 0, 0.2);
+    box-sizing: border-box;
+    background: url("/componenets/wave.png");
+    width: 100%;
+    min-height: ;
+}
